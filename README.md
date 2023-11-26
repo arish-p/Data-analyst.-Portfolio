@@ -38,7 +38,7 @@
 Суммарное время диаглогов
 ![2023-11-26_21-31-58](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/14bf1d54-bbaa-4d7f-9855-5629ddb32fa5)
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/arish-p/Data-analyst.-Portfolio/blob/main/Проект%20№1/Тестовое%20Excel%20%231.xlsx">Ссылка на проект</a>
 
 # Контакты
 - Email: arish.popova@gmail.com
