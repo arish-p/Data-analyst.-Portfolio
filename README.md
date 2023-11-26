@@ -87,6 +87,7 @@
 
 ![image](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/a55de39e-ab39-4b71-bbc0-c693c1812cbc)
 
+> <a href="https://github.com/arish-p/Data-analyst.-Portfolio/blob/main/Проект%20№1/Тестовое%20Excel%20%231.xlsx">Ссылка на проект</a>
 
 # Контакты
 - Email: arish.popova@gmail.com
