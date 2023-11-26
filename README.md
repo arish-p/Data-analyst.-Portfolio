@@ -26,5 +26,19 @@
 **3. Задача №3**
 - На вкладке «Источник» добавить еще одну колонку «Флаг». Значение в этой колонке должно быть равно 1 в том случае, если значение в поле «Проект» равно GosUslugi_2LTP, а тип обращения — «Вопрос». В остальных случаях значение должно быть равно нулю.
 
+**Решение**
+
+**Задача №1**
+Выделение 10-ти самых частых тематик обращений с помощью фильтрации и диаграммы
+![2023-11-26_20-42-47](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/ccc5e2bf-5002-4c16-bbda-7eaf3d599fc6)
+
+Диаграмма динамики топ-3 обращений
+![2023-11-26_21-23-56](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/a634486c-e2e5-41c8-86fe-1c5f119b0c10)
+
+Суммарное время диаглогов
+![2023-11-26_21-31-58](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/14bf1d54-bbaa-4d7f-9855-5629ddb32fa5)
+
+> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+
 # Контакты
 - Email: arish.popova@gmail.com
