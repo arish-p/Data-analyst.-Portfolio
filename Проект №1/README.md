@@ -42,5 +42,3 @@
 
 ![2023-11-26_21-40-28](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/2b1cc5d2-55d9-4156-b009-3f69dbd5393c)
 
-
-> <a href="https://github.com/arish-p/Data-analyst.-Portfolio/blob/main/Проект%20№1/Тестовое%20Excel%20%231.xlsx">Ссылка на проект</a>
