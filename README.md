@@ -37,28 +37,6 @@
 4. Собрать визуализации основных бизнес-показателей.
 5. Исследовать данные о пользователях и их поведении.
 
-**Решение**
-
-Подсчет самых важных данных
-
-![2023-11-26_22-00-36](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/8a0825dc-85d4-45b3-bc1f-b27ae610c922)
-
-Калькулятор юнит экономики
-
-![2023-11-26_22-02-46](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/c1b03991-6e30-4ee4-a1ea-363aa356bf59)
-
-График 10 самых популярных фильмов
-
-![image](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/3fb711cf-0dd0-4481-b75f-8e1f6e945350)
-
-График активности пользователей 
-
-![image](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/1f43b5d7-8029-4554-a87b-f5ff35464cba)
-
-График распределения подписчиков по часовым поясам
-
-![image](https://github.com/arish-p/Data-analyst.-Portfolio/assets/113469837/a55de39e-ab39-4b71-bbc0-c693c1812cbc)
-
 > <a href="https://github.com/arish-p/Data-analyst.-Portfolio/blob/main/Проект%20№2/Проект2.xlsx">Ссылка на проект</a>
 
 # Контакты
