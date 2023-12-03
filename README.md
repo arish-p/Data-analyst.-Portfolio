@@ -37,7 +37,7 @@
 4. Собрать визуализации основных бизнес-показателей.
 5. Исследовать данные о пользователях и их поведении.
 
-> <a href="https://github.com/arish-p/Data-analyst.-Portfolio/blob/main/Проект%20№2/Проект2.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/arish-p/Online-Cinema-Unit-Economics-Calculator">Ссылка на проект</a>
 
 # Контакты
 - Email: arish.popova@gmail.com
